@@ -1,4 +1,4 @@
 # HTML-and-CSS-Basic
 HTML and  CSS  Basic
 
-https://github.com/monarul-2272/HTML-and-CSS-Basic
+https://monarul-2272.github.io/HTML-and-CSS-Basic/
